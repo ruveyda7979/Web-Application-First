@@ -1,0 +1,109 @@
+.resimSlider{
+    height: 600px;
+}
+
+.slider2{
+    width: 100px;
+    height: 600px;
+    margin-bottom: 66.6px;
+}
+
+.slider3{
+    width: 100px;
+    height: 600px;
+    margin-bottom: 66.6px;
+}
+
+.slider4{
+    width: 100px;
+    height: 600px;
+    
+}
+
+
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.yukari-cik{
+    display: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-color:darkblue;
+    color: white;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    position: fixed;  /* Butonu yüzer hale getirdik.*/
+    bottom: 25px;
+    right: 25px;
+   }
+
+   .yukari-cik:hover{
+    cursor: pointer;
+    background-color: darkgray;
+   }
+
+   .goster{
+    display: block;
+   }
+
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.iGri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.iBeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.ekipCard > img:hover{
+    opacity: 0.8;
+}
+
+.galeri{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+
+}
+
+.btn{
+    text-decoration: none;
+    font-size: 19px;
+    margin: 100px 50px;
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: blue;
+    color:white;
+}
+
+.btn1{
+    background-color:blue ;
+    color: blue
+}

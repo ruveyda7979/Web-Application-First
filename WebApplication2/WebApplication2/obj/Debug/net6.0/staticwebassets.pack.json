@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\custom.js",
+      "PackagePath": "staticwebassets\\custom.js"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\400-kawasaki-ninja-wallpaper-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\400-kawasaki-ninja-wallpaper-thumb.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\62dc5c5b4e3fe0161830f255.webp",
+      "PackagePath": "staticwebassets\\img\\62dc5c5b4e3fe0161830f255.webp"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\anime-anime-girls-digital-art-artwork-2d-hd-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\anime-anime-girls-digital-art-artwork-2d-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\cyberpunk-amoled-dark-vertical-hd-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\cyberpunk-amoled-dark-vertical-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\ekip1.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\ekip1.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\ekip2.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\ekip2.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\ekip3.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\ekip3.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\ekip4.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\ekip4.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\ekip5.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\ekip5.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\ekip6.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\ekip6.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r1.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r1.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r2.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r2.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r3.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r3.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r4.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r4.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r5.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r5.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r6.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r6.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r7.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r7.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\r8.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\r8.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\sl1.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\sl1.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\sl2.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\sl2.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\drive-download-20230717T042838Z-001\\sl3.jpg",
+      "PackagePath": "staticwebassets\\img\\drive-download-20230717T042838Z-001\\sl3.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\indir.jpg",
+      "PackagePath": "staticwebassets\\img\\indir.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\russia-sam-favorite-anti-aircraft-missile-system-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\img\\russia-sam-favorite-anti-aircraft-missile-system-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\ticaret_bakanligindan_yazilim_ve_oyun_ihracati_icin_yeni_destek_paketi_1638953987_7976.webp",
+      "PackagePath": "staticwebassets\\img\\ticaret_bakanligindan_yazilim_ve_oyun_ihracati_icin_yeni_destek_paketi_1638953987_7976.webp"
+    },
+    {
+      "Id": "D:\\Web Project\\WebApplication2\\WebApplication2\\wwwroot\\img\\yazilim-sirketi-hisselerine-doping-olacak-haber-5f5f3fc72b294.jpg",
+      "PackagePath": "staticwebassets\\img\\yazilim-sirketi-hisselerine-doping-olacak-haber-5f5f3fc72b294.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
